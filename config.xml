@@ -14,7 +14,7 @@
 	<icon src="img/icon.png" gap:platform="android" gap:qualifier="hdpi" />
 	<icon src="img/icon.png" gap:platform="android" gap:qualifier="xhdpi" />
 	
-	<preference name="phonegap-version" value="cli-6.3.0" />
+	<preference name="phonegap-version" value="cli-6.5.0" />
 	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="false" />
 	<preference name="android-windowSoftInputMode" value="stateVisible" />
